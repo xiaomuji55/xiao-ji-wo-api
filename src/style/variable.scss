@@ -1,0 +1,3 @@
+$head-h: 40px;
+$foot-h: 30px;
+$main-h: calc(100% - #{$head-h} - #{$foot-h});
